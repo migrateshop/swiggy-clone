@@ -31,25 +31,30 @@ An [App like Swiggy](https://migrateshop.com/swiggy-clone/) is a comprehensive s
 
 ## How does a Swiggy clone app work?
 A Swiggy clone app runs on a simplified process that connects users, restaurants, and delivery partners in a single ecosystem. Here's an overview of how it normally operates:
+
 **1. User App**
 * **Account Setup:** Users provide their location and preferences when they register or log in.
 * **Browsing & Ordering:** Users can explore restaurants, see menus, and choose things for ordering.
 * **Payment:** Select a payment option (e.g., card, wallet, COD) and place the order.
 * **Real-Time Order Tracking:** Users can monitor order status, including the preparation and shipping process.
 * **Ratings & Feedback:** Customers can review the food and delivery service to enhance future experiences.
+
 **2. Restaurant Panel**
 * **Order Management:** Restaurants process orders, prepare food and label it ready for pickup.
 * **Menu & Availability Management:** Restaurants can control menus, availability, pricing, and promotions.
 * **Reports & Analytics:** To assist restaurants in making the most of their menus, a lot of clones include information on popular items, peak ordering periods, and revenue insights.
+
 **3. Delivery Partner App**
 * **Order Pickup:** Delivery drivers get inquiries from local restaurants. They accept the order, go to the restaurant, and get the food.
 * **Route Optimization:** The Swiggy clone app optimizes routes for speedier delivery, saving drivers time and petrol.
 * **Delivery Completion:** Once the meal is delivered to the client, the driver marks the order as finished and accepts payment.
+
 **4. Admin Dashboard**
 * **Centralized Control:** All operations, including user activity, delivery, and orders, can be observed by the administrator.
 * **Commission Management:** The admin can determine commissions for transactions between restaurants and delivery partners.
 * **Marketing & Promotions:** Admin can develop campaigns with discounts and loyalty benefits to increase order volume.
 * **Analytics & Reports:** The dashboard offers information on user behavior, revenue trends, and app performance to help with business insights.
+
 **Workflow Example**
 * **Order Placement:** Customers can place orders using the app.
 * **Order Confirmation:** The restaurant receives and verifies the order.
@@ -77,7 +82,7 @@ By selecting our Swiggy clone script, you will receive various benefits, includi
 
 For further information, please book a consultation with one of our great staff members, who will give clear explanations and specialized counsel to your needs.
 
-Schedule a free demo: https://migrateshop.com/swiggy-clone/
+**Schedule a free demo: https://migrateshop.com/swiggy-clone/**
 
 **Contact us,** 
 
