@@ -1,6 +1,6 @@
-<h1 align="center"> Rental Script: Strategies and Tips to Succeed in your Rental Business</h1> 
+<h1 align="center"> Top Benefits of a Swiggy Clone for New Food Delivery Ventures </h1> 
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“swiggyclone.png" src="https://github.com/migrateshop/swiggy-clone/blob/main/images/swiggy-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“swiggyclone.png" src="https://github.com/migrateshop/swiggy-clone/blob/main/images/swiggy-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 A [Swiggy clone](https://migrateshop.com/swiggy-clone/) is a pre-built, customizable app solution that looks like the basic features and functions of the renowned food delivery service Swiggy. It's intended for businesses looking to build their own food delivery network without starting from scratch. Like Swiggy, this clone features crucial capabilities for organizing food orders, connecting consumers with restaurants, and arranging delivery services.
 
@@ -27,7 +27,7 @@ In today's digital-first era, starting a food delivery service is both tough and
 
 An [App like Swiggy](https://migrateshop.com/swiggy-clone/) is a comprehensive solution that enables new food delivery firms to grow by providing flexibility and sophisticated features at a fraction of the cost.
 
-<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“swiggyclone.png" src="https://github.com/migrateshop/swiggy-clone/blob/main/images/swiggy-clone.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
+<div class="Box-sc-g0xbh4-0 iIZCet"><img alt=“swiggyclone.png" src="https://github.com/migrateshop/swiggy-clone/blob/main/images/swiggy-clone-app.png" data-hpc="true" class="Box-sc-g0xbh4-0 kzRgrI"></div>
 
 ## How does a Swiggy clone app work?
 A Swiggy clone app runs on a simplified process that connects users, restaurants, and delivery partners in a single ecosystem. Here's an overview of how it normally operates:
@@ -70,7 +70,7 @@ Look no further than Migrateshop! Migrateshop is a prominent [website and mobile
 
 By selecting our Swiggy clone script, you will receive various benefits, including:
 
-* **100% Money Back Guarantee: **Our products come with a 100% money-back guarantee to ensure their quality.
+* **100% Money Back Guarantee:** Our products come with a 100% money-back guarantee to ensure their quality.
 * **Fully Customizable:** Customize the script to meet your company’s needs.
 * **Scalable:** Easily expand your business as demand grows.
 * **White Label Solution:** Customize the app without external branding.
